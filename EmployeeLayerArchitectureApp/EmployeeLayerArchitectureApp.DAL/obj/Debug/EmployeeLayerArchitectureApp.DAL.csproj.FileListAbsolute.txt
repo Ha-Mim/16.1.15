@@ -1,0 +1,7 @@
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.DAL\obj\Debug\EmployeeLayerArchitectureApp.DAL.csprojResolveAssemblyReference.cache
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.DAL\bin\Debug\EmployeeLayerArchitectureApp.DAL.dll
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.DAL\bin\Debug\EmployeeLayerArchitectureApp.DAL.pdb
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.DAL\bin\Debug\EmployeeLayerArchitectureApp.DAO.dll
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.DAL\bin\Debug\EmployeeLayerArchitectureApp.DAO.pdb
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.DAL\obj\Debug\EmployeeLayerArchitectureApp.DAL.dll
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.DAL\obj\Debug\EmployeeLayerArchitectureApp.DAL.pdb

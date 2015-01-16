@@ -1,0 +1,12 @@
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\bin\EmployeeLayerArchitectureApp.Web.dll.config
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\bin\EmployeeLayerArchitectureApp.Web.dll
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\bin\EmployeeLayerArchitectureApp.Web.pdb
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\obj\Debug\EmployeeLayerArchitectureApp.Web.csprojResolveAssemblyReference.cache
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\obj\Debug\EmployeeLayerArchitectureApp.Web.dll
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\obj\Debug\EmployeeLayerArchitectureApp.Web.pdb
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\bin\EmployeeLayerArchitectureApp.BLL.dll
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\bin\EmployeeLayerArchitectureApp.DAO.dll
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\bin\EmployeeLayerArchitectureApp.DAL.dll
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\bin\EmployeeLayerArchitectureApp.BLL.pdb
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\bin\EmployeeLayerArchitectureApp.DAO.pdb
+H:\aspPractice\January 2015\16-01-2015\EmployeeLayerArchitectureApp\EmployeeLayerArchitectureApp.Web\bin\EmployeeLayerArchitectureApp.DAL.pdb
